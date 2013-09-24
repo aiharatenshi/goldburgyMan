@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Cameras.cs">
+    <Files>
+      <File FileName="Assets\Cameras.cs" Line="15" Column="18" />
+      <File FileName="Assets\ButtonShrink.cs" Line="19" Column="3" />
+      <File FileName="Assets\Movingup.cs" Line="14" Column="54" />
+      <File FileName="Assets\Trig1Button.cs" Line="16" Column="46" />
+      <File FileName="Assets\Lifttrigger.cs" Line="18" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
